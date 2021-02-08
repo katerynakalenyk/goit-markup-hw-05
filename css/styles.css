@@ -634,7 +634,6 @@ margin-bottom: 50px;
   background-color: #FFFFFF;
   border: 1px solid #EEEEEE;
  position: relative;
- overflow: hidden;
 }
 .navigation-link:nth-child(3n){
   margin-right: 0;
